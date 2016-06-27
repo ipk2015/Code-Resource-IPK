@@ -13,3 +13,6 @@
 
 #Kotlin:
 1. http://kotlinlang.org
+
+#Ruby
+1. 国内最权威的Ruby网站，包罗了Ruby、Rails的各种入门资料，想学Ruby这个足够了！ https://ruby-china.org/wiki
