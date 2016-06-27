@@ -1,27 +1,40 @@
-1.UI: https://github.com/wasabeef/awesome-android-ui
-2.开源框架 https://github.com/Trinea/android-open-project
-3.Github： https://github.com
-4.入门教程 http://hao.jobbole.com/android-training-course-in-chinesegoogle-android/
-5.Github导入异常解决：http://www.android100.org/html/201506/29/159921.html
-6.AS初配置： http://www.jb51.net/article/65441.htm
-7.路径及文字； http://blog.csdn.net/harvic880925/article/details/38926877
-8.资源平台 http://hao.jobbole.com/?catid=252
-9.慕课网：http://www.imooc.com
-10.git 入门使用：http://blog.csdn.net/voluptas/article/details/6339855
-11.AS及GenymMotion http://www.tuicool.com/articles/Bjm2Un
-12.开源代码平台：http://www.23code.com
-13.罗升阳博客：
+1. UI: https://github.com/wasabeef/awesome-android-ui
+
+2. 开源框架 https://github.com/Trinea/android-open-project
+
+3. Github： https://github.com
+
+4. 入门教程 http://hao.jobbole.com/android-training-course-in-chinesegoogle-android/
+
+5. Github导入异常解决：http://www.android100.org/html/201506/29/159921.html
+
+6. AS初配置： http://www.jb51.net/article/65441.htm
+
+7. 路径及文字； http://blog.csdn.net/harvic880925/article/details/38926877
+
+8. 资源平台 http://hao.jobbole.com/?catid=252
+
+9. 慕课网：http://www.imooc.com
+
+10. git 入门使用：http://blog.csdn.net/voluptas/article/details/6339855
+
+11. AS及GenymMotion http://www.tuicool.com/articles/Bjm2Un
+
+12. 开源代码平台：http://www.23code.com
+
+13. 罗升阳博客：
     51CTO博客：http://shyluo.blog.51cto.com/
     CSDN博客：http://blog.csdn.net/Luoshengyang 
-14.AS技巧
+
+14. AS技巧
  http://zlv.me/posts/2015/07/13/14_android-studio-tips/
-15.翟一帆博客
+
+15. 翟一帆博客
 http://blog.zhaiyifan.cn
-16.开发周报：http://www.androidweekly.cn
-17.代码零件：http://www.zhiduozhe.com
 
+16. 开发周报：http://www.androidweekly.cn
 
-
+17. 代码零件：http://www.zhiduozhe.com
 
 Android 技术类博客
 
