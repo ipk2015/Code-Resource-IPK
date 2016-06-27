@@ -43,6 +43,26 @@ http://www.cnblogs.com/Wayou/p/chrome-console-tips-and-tricks.html
 17. React Native 蛮荒开发生存指南：https://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=2651112082&idx=1&sn=11c40b90e8efe8c209674dd23402376e&scene=0&key=b28b03434249256b7241c497010204957d02c447c5f23de433d4fcea3cbce4a3ee0ff8f7cfd59484dc75c0a98d2dbae3&ascene=0&uin=Mjc3OTU3Nzk1&devicetype=iMac+MacBookPro10%2C1+OSX+OSX+10.10.5+build%2814F27%29&version=11020201&pass_ticket=8sCQsMdJ%2FCb0%2Fi3%2B8aPa8ZC0vdAqTtIakcu66D8Ey1AVjUGJlYQtSJ6%2FZqRPAGt8
 18.http://f8-app.liaohuqiu.net
 
+19. http://facebook.github.io/react/
+http://facebook.github.io/react-native/
+https://segmentfault.com/a/1190000004263182
+http://www.jianshu.com/collection/d8329f75229c
+http://reactnative.cn/docs/getting-started.html
+http://www.jianshu.com/p/2ddfff095e90
+http://segmentfault.com/a/1190000003698071
+http://es6.ruanyifeng.com/
+http://www.w3school.com.cn/
+http://res1.infoqstatic.com/resource/minibooks/ES6-in-Depth/zh/pdf/ES6-in-depth.pdf?expire=1453361041&digest=b415949109a45a064c46f1390cf0c829
+http://css.doyoe.com/
+http://www.cnionic.com/web/index.php?s=/home/index/index.html
+http://www.lcode.org/react-native/
+https://github.com/jondot/awesome-react-native#examples
+http://www.apjs.net/#dir35
+https://js.coach/react-native
+http://reactjs.cn/react/docs/getting-started.html
+http://f8-app.liaohuqiu.net/
+
+
 
 
 
