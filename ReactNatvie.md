@@ -1,3 +1,4 @@
+0.9 组件集合： https://github.com/booxood/fetch-react-native-components
 
 1. windows环境下run react_native步骤 :http://www.cnblogs.com/meteoric_cry/p/4874517.html
 
